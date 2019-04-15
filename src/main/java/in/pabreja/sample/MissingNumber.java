@@ -15,6 +15,8 @@ public class MissingNumber {
 
         /* program to test above function */
         public static void main(String args[])
+
+
         {
 //            int a[] = {1,2,4,5,6}; //Arithmetic progression
             int a[] = {2,4,6,10,12}; //Arithmetic progression
